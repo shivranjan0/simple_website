@@ -1,0 +1,14 @@
+E:\simple_website\ToDoWinApp\bin\Debug\net8.0-windows\ToDoWinApp.exe
+E:\simple_website\ToDoWinApp\bin\Debug\net8.0-windows\ToDoWinApp.deps.json
+E:\simple_website\ToDoWinApp\bin\Debug\net8.0-windows\ToDoWinApp.runtimeconfig.json
+E:\simple_website\ToDoWinApp\bin\Debug\net8.0-windows\ToDoWinApp.dll
+E:\simple_website\ToDoWinApp\bin\Debug\net8.0-windows\ToDoWinApp.pdb
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.AssemblyInfoInputs.cache
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.AssemblyInfo.cs
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.csproj.CoreCompileInputs.cache
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.dll
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\refint\ToDoWinApp.dll
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.pdb
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ToDoWinApp.genruntimeconfig.cache
+E:\simple_website\ToDoWinApp\obj\Debug\net8.0-windows\ref\ToDoWinApp.dll
